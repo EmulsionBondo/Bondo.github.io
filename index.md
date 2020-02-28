@@ -5,7 +5,7 @@
 　　　最近はマラソン形式のコンテストにも関心があり過去問を解いたりしています  
 　　　ゲームAI系コンテストにも興味があり、勉強中です  
 　　　色はレートのHihgestを記載しています [AtCoder（水）](https://atcoder.jp/users/Bondo416) [Codeforces（青）](https://codeforces.com/profile/Bondo)  
-　　　CodinGame: [TRON BATTLE(LEGEND)](https://www.codingame.com/multiplayer/bot-programming/tron-battle/leaderboard) 
+　　　CodinGame: [TRON BATTLE（LEGEND）](https://www.codingame.com/multiplayer/bot-programming/tron-battle/leaderboard) 
 
 # 所属学会
 言語処理学会（学生会員）
