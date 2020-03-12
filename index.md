@@ -29,3 +29,7 @@
 桧森 拓真， 木村 泰知， 荒木 健治, 第11回言語獲得と理解研究会， pp.4−8, 2020.
 1. 会議録に含まれる法律名を対象としたEnd-to-Endのエンティティリンキングの性能評価  
 桧森拓真, 木村泰知, 荒木健治, 言語処理学会第26回年次大会(NLP2020), pp.367-370, 2020.
+
+# 開発物
+1. [AutoSubmissionSetting](https://github.com/EmulsionBondo/AtCoder-UserScripts)  
+  AtCoderに提出されたコード検索を一部自動化するUser Script
