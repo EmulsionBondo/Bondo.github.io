@@ -4,8 +4,19 @@
 趣味：競技プログラミングが趣味で国内外のサイト問わずコンテストに積極的に参加しています  
 　　　最近はマラソン形式のコンテストにも関心があり過去問を解いたりしています  
 　　　ゲームAI系コンテストにも興味があり、独学で探索手法などを勉強中です  
-　　　色はレートのHihgestを記載：[AtCoder（水）](https://atcoder.jp/users/Bondo416) [Codeforces（青）](https://codeforces.com/profile/Bondo)  
-　　　CodinGame（順位は最高順位を記載）: [TRON BATTLE 日本人8位 （LEGEND）](https://www.codingame.com/multiplayer/bot-programming/tron-battle/leaderboard)  [HYPER SONIC 日本人7位 （LEGEND）](https://www.codingame.com/multiplayer/bot-programming/hypersonic/leaderboard)  
+   
+# 競技プログラミング実績
+レートは最高レート（Highest）を記載  
+
+## AtCoder
+UserID : [Bondo416(水色)](https://atcoder.jp/users/Bondo416)   
+## Codeforces
+UserID : [Bondo(青色)](https://codeforces.com/profile/Bondo)    
+## CodinGame
+順位は最高順位を記載  
+### 過去問
+1. [TRON BATTLE （LEGEND）](https://www.codingame.com/multiplayer/bot-programming/tron-battle/leaderboard)日本  8/249位 　　　世界 159/5,652位  
+1. [HYPER SONIC （LEGEND）](https://www.codingame.com/multiplayer/bot-programming/hypersonic/leaderboard)日本 7/49位　　　　世界 169/2,137位  
 
 # 所属学会
 言語処理学会（学生会員）
