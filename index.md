@@ -42,6 +42,9 @@ TOEIC 745点
 1. 地方議会会議録における発言文推定手法の性能評価  
 桧森 拓真, 木村 泰知, 坂地 泰紀, 荒木 健治, 知能と情報（日本知能情報ファジィ学会誌）, Vol.31, No.2, pp.645-652, 2019. 査読有り [DOI](https://www.jstage.jst.go.jp/article/jsoft/31/2/31_645/_article/-char/ja/)
   
+## 国際会議
+1. Takuma Himori, Yasutomo Kimura and Kenji Araki: “HUHKA at the NTCIR-15 QA Lab-PoliInfo-2 Entity Linking Task”, Proceedings of NTCIR-15 Conference, December 8-11, Tokyo, Japan．  
+  
 ## 学会・研究会発表
 1. 地方議会会議録における発言文の推定  
 桧森拓真, 木村泰知, 坂地泰紀, 言語処理学会第24回年次大会(NLP2018), pp.125-128, 2018.
